@@ -1,4 +1,5 @@
 *.env
+#test중입니다.
 
 # gitignore.io에서 다운로드
 # Created by https://www.toptal.com/developers/gitignore/api/windows,node,react
